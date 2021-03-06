@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.geektime.mapper.slave.OrderSlaveMapper">
+
+    <sql id="FIELDS">
+        id, user_id,
+        order_no,
+        total_price,
+        order_status,
+        delivery_id,
+        create_time,
+        paymen_ttime,
+        is_effective
+    </sql>
+
+    <update id="updateById">
+        update t_order set product_name=#{entity.productName} where id=#{entity.id}
+    </update>
+
+    <select id="selectById" parameterType="Integer" resultType="com.geektime.entity.Order">
+        SELECT
+        <include refid="FIELDS" />
+        FROM t_order
+        WHERE id = #{orderId}
+    </select>
+
+
+
+</mapper>

@@ -1,0 +1,17 @@
+CREATE TABLE `t_order0` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '')ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order1` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '')ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order2` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '')ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order3` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '')ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order4` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '')ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order5` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '')ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order6` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '')ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order7` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '')ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order8` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '')ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order9` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '')ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order10` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '') ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order11` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '') ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order12` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '') ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order13` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '') ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order14` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '') ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order15` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '') ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `t_order16` (`user_id` int DEFAULT NULL,`order_id` int DEFAULT NULL,`note` varchar(10) default '') ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
